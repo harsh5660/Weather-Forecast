@@ -45,3 +45,5 @@ weather(i.e. mist, snow, ice, storms, mists as it connects with driving and flyi
 other climate hazards(lightning, hail, cyclones, typhoons, ice storms).
 (7) Assists farmers and grounds-keepers with making arrangements for the crop water system 
 and insurance (water system booking, freeze security).
+<img width="960" alt="2022-04-15 (1)" src="https://user-images.githubusercontent.com/84218738/163664447-6e08e573-40b5-44b0-913d-4a18105ad6d2.png">
+<img width="742" alt="2022-04-14 (2)" src="https://user-images.githubusercontent.com/84218738/163664464-8c9466ab-1d28-4693-af50-b93dc0b9a0d8.png">
