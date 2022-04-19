@@ -47,3 +47,6 @@ other climate hazards(lightning, hail, cyclones, typhoons, ice storms).
 and insurance (water system booking, freeze security).
 <img width="960" alt="2022-04-15 (1)" src="https://user-images.githubusercontent.com/84218738/163664447-6e08e573-40b5-44b0-913d-4a18105ad6d2.png">
 <img width="742" alt="2022-04-14 (2)" src="https://user-images.githubusercontent.com/84218738/163664464-8c9466ab-1d28-4693-af50-b93dc0b9a0d8.png">
+<img width="960" alt="2022-04-15" src="https://user-images.githubusercontent.com/84218738/164027944-052774c7-3acb-4f9d-a151-f7f6821dbd72.png">
+<img width="960" alt="2022-04-17" src="https://user-images.githubusercontent.com/84218738/164028017-8db5532d-2b58-4aff-9e89-ede45e6f131b.png">
+
